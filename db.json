@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "example",
+      "email": "example@gmail.com",
+      "phone": "9090909090",
+      "Qualif": "B.E",
+      "skill": "c",
+      "exp": "2",
+      "age": "23",
+      "add": "chennai",
+      "gender": "",
+      "pwd": "1234"
+    },
+    {
+      "id": "ram",
+      "email": "ram@gmail.com",
+      "phone": "9090909",
+      "Qualif": "B.Tech IT",
+      "skill": "c",
+      "exp": "4",
+      "age": "42",
+      "add": "pune",
+      "gender": "",
+      "pwd": "4444"
+    }
+  ]
+}
